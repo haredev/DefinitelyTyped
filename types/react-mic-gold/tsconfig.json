@@ -20,6 +20,5 @@
     },
     "files": [
         "index.d.ts",
-        "react-mic-tests.tsx"
     ]
 }
